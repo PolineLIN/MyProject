@@ -1,0 +1,10 @@
+C:\Users\Paul\Desktop\檢查在NAS檔案是否重複\Scroll\Scroll\bin\Debug\Scroll.exe
+C:\Users\Paul\Desktop\檢查在NAS檔案是否重複\Scroll\Scroll\bin\Debug\Scroll.pdb
+C:\Users\Paul\Desktop\檢查在NAS檔案是否重複\Scroll\Scroll\obj\Debug\Scroll.csprojAssemblyReference.cache
+C:\Users\Paul\Desktop\檢查在NAS檔案是否重複\Scroll\Scroll\obj\Debug\Scroll.Form1.resources
+C:\Users\Paul\Desktop\檢查在NAS檔案是否重複\Scroll\Scroll\obj\Debug\Scroll.Form2.resources
+C:\Users\Paul\Desktop\檢查在NAS檔案是否重複\Scroll\Scroll\obj\Debug\Scroll.Properties.Resources.resources
+C:\Users\Paul\Desktop\檢查在NAS檔案是否重複\Scroll\Scroll\obj\Debug\Scroll.csproj.GenerateResource.cache
+C:\Users\Paul\Desktop\檢查在NAS檔案是否重複\Scroll\Scroll\obj\Debug\Scroll.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\檢查在NAS檔案是否重複\Scroll\Scroll\obj\Debug\Scroll.exe
+C:\Users\Paul\Desktop\檢查在NAS檔案是否重複\Scroll\Scroll\obj\Debug\Scroll.pdb
